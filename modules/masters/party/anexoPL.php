@@ -576,7 +576,7 @@
 
 
         if ($urloper == "Acta" && ($msj_error=="" && $error_msg_first_regist=="")) {
-            echo "<script>window.open('ACTA DE OBSERVACIONES.docx');</script>";
+            echo "<script>window.open('actaPL.php');</script>";
            }
 
        // PDF
